@@ -1,0 +1,72 @@
+================================================================
+AGENT_TASK.txt
+CONTENT THAT BUILDS - SECOND EDITION
+Build + verification task
+Owner: estibancreations-svg (Estiban Creations)
+================================================================
+
+ROLE
+This repository holds co-owned intellectual property that has
+NOT been publicly released. Every step below is order-dependent.
+
+
+----------------------------------------------------------------
+STEP 1 - VISIBILITY (DO THIS FIRST)
+----------------------------------------------------------------
+This repo and the following four must be PRIVATE:
+  1. content-that-builds
+  2. MASTER_CEO_DASHBOARD
+  3. -HisMajesty0225-CEO-Dashboard
+  4. Master-System-Buildout
+  5. Master-dashboard-
+
+Path for each: Settings > Danger Zone > Change visibility > Private
+
+
+----------------------------------------------------------------
+STEP 2 - FILL CONTENT
+----------------------------------------------------------------
+Every file containing "<<< PASTE FINAL TEXT HERE >>>" is awaiting
+its finished Second Edition prose. The HTML comment at the top of
+each file is its binding spec. Do not invent or paraphrase
+workbook content. Do not alter a spec block.
+
+
+----------------------------------------------------------------
+STEP 3 - VERIFICATION CHECKLIST
+----------------------------------------------------------------
+  [ ] All 5 repos are PRIVATE
+  [ ] 01-CHAPTERS/ch07-job-types.md contains 11 job types (counted)
+  [ ] 02-LOCK-SYSTEM/templates/ holds 8 lock templates (counted)
+  [ ] Lock order is Identity, Product, Place, Claim, Brand System,
+      Character, Continuity, Copy
+  [ ] Lock Builder is BLANK-FIRST throughout
+  [ ] Shot Ledger carries all 5 new columns: Coverage,
+      180-Degree Rule, Screen Direction, Eyeline, Story Point
+  [ ] Narrative Mode has exactly 2 prompt templates
+  [ ] Command library totals 250 across 10 categories (counted)
+  [ ] Every command row has "Fails when" and "Pairs with" filled
+  [ ] Stacking recipes are named by goal
+  [ ] Glossary contains 21 terms (counted)
+  [ ] Errata item 7 marked resolved, NOT deleted
+  [ ] Chapter 13 shows three columns: Object, Experience, Narrative
+
+Report any step not completed and the exact error. Do not
+silently skip a step.
+
+
+----------------------------------------------------------------
+STEP 4 - MIRROR
+----------------------------------------------------------------
+ONLY after Master-System-Buildout is PRIVATE, mirror this repo to:
+  Master-System-Buildout/03-AI-PROMPTS/content-that-builds/
+
+Do not disturb the existing Agent-Prompts, Production-Prompts,
+or System-Prompts folders.
+
+Add SOURCE.md in the mirror stating that the canonical source of
+truth is estibancreations-svg/content-that-builds.
+
+================================================================
+END OF TASK
+================================================================

@@ -1,36 +1,47 @@
 # Content That Builds — Second Edition
 
-AI content creation and marketing system.
+**Status: PRE-RELEASE. Not for distribution.**
 
-Co-created by Rev. Dr. Christian Frazier and Stephen / Estiban Creations. Elevated Minds Coaching.
+Co-created by Rev. Dr. Christian Frazier and Stephen / Estiban Creations.
+Elevated Minds Coaching.
 
 ---
 
-## What this repository is
+## What this is
 
-The working home for the Second Edition upgrade of the *Content That Builds* workbook, plus the command libraries, prompt templates, and supporting material that ship with it.
+A universal production system for AI content creation and marketing.
 
-This repository is **private** and intended for internal use.
+The examples inside this workbook are **illustrations, not scope limits**. The same spine applies to automotive campaigns, consumer electronics, travel packages, cruise lines, nonprofits, and film production.
 
-## Folder structure
+---
 
-Numbering convention mirrors `Master-System-Buildout`.
+## Structure
 
 | Folder | Contents |
 |---|---|
-| `00-GOVERNANCE` | Provenance, attribution, decisions of record |
-| `01-WORKBOOK` | Second Edition chapters and document spine |
-| `02-COMMAND-LIBRARIES` | Video and image command libraries |
-| `03-AI-PROMPTS` | Prompt templates, including Narrative Mode |
-| `04-TEMPLATES` | Lock templates, Shot Ledger, selector tools |
-| `07-DOCUMENTATION` | Glossary, errata, compliance |
-| `08-CHAT-LOGS` | Development map — how this was built and why |
-| `99-ARCHIVE` | Superseded drafts |
+| `00-FRONT-MATTER/` | Title, copyright/IP, how to use, Diagnostic Router |
+| `01-CHAPTERS/` | Ch01–Ch13, including Ch10.5 (The Drift Ladder) |
+| `02-LOCK-SYSTEM/` | Lock Family (8 types), selector, stacking table, Lock Builder |
+| `03-NARRATIVE-MODE/` | Second beat map, coverage, extended Shot Ledger, 2 templates |
+| `04-COMMAND-LIBRARY/` | 250 video commands across 10 categories, five-column format |
+| `05-STACKING-RECIPES/` | Recipes named by goal |
+| `06-BACK-MATTER/` | Compliance, 21-term Glossary, Errata |
+| `07-ASSETS/` | Figures and supporting files |
 
-## Where to start
+---
 
-If you are reviewing this work and want the path rather than the product, read `08-CHAT-LOGS/DEVELOPMENT-MAP.md` first. It records the decisions, the reversals, and the things that broke.
+## Second Edition — the three passes
 
-## Mirror
+**Pass 1 — Structure.** Diagnostic Router, Chapter 10.5 (The Drift Ladder), Lock Builder with blank-first templates, five-column command library format, errata.
 
-This material also mirrors into `Master-System-Buildout/03-AI-PROMPTS/`.
+**Pass 2 — Generalized spine.** Reference lock expanded from 2 slots to an 8-type Lock Family with selector and stacking table. Narrative Mode built as a second beat map on the same production machine. Chapter 13 built as three parallel columns proving the spine holds across unrelated job types.
+
+**Pass 3 — Completion.** Chapter 7 rebuilt as eleven job types with lock sets. Stacking recipes renamed by goal. Command library reformatted with "Fails when" and "Pairs with" on every row. Compliance page. 21-term glossary.
+
+---
+
+## Build state
+
+This repository holds the **complete structure and the binding spec for every file**. Files marked `<<< PASTE FINAL TEXT HERE >>>` are awaiting their finished Second Edition prose.
+
+See `AGENT_TASK.txt` for the full build and verification task.
